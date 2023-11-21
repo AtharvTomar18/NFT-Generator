@@ -1,0 +1,86 @@
+{
+    "background": {
+        "Midorangebackground": 0.148,
+        "Darkbluebackground": 0.246,
+        "Burntorangebackground": 0.038,
+        "Midbluebackground": 0.112,
+        "Lightbluebackground": 0.34,
+        "Lightorangebackground": 0.014,
+        "Rustredbackground": 0.088
+    },
+    "head": {
+        "Midbluehead": 0.234,
+        "Darkorangehead": 0.186,
+        "Lightbluehead": 0.148,
+        "Palehead": 0.296,
+        "Darkbluehead": 0.09,
+        "Lightorangehead": 0.034
+    },
+    "hair": {
+        "Lightbluefro": 0.336,
+        "Redfro": 0.472,
+        "null": 0.036,
+        "Goldenfro": 0.096,
+        "Antlers": 0.05
+    },
+    "nose": {
+        "Wide": 0.22,
+        "Round": 0.192,
+        "Flared": 0.314,
+        "Cute": 0.21,
+        "Grafitti": 0.054
+    },
+    "mouth": {
+        "Cheshire": 0.048,
+        "Smirk": 0.338,
+        "Unimpressed": 0.18,
+        "Gawking": 0.14,
+        "Goof": 0.272,
+        "null": 0.01
+    },
+    "eyes": {
+        "Wonkeyblueiris": 0.14,
+        "Cutemoments": 0.074,
+        "Relaxedyellow": 0.052,
+        "Beady": 0.1,
+        "Toonorangeiris": 0.098,
+        "Relaxedred": 0.082,
+        "Wonkeyorangeiris": 0.056,
+        "Widecute": 0.132,
+        "Hollow": 0.15,
+        "Relaxedblue": 0.096
+    },
+    "body": {
+        "Lightorangebody": 0.008,
+        "Lightbluebody": 0.17,
+        "Midbluebody": 0.144,
+        "Darkredbody": 0.172,
+        "Rustorangebody": 0.126,
+        "Midorangebody": 0.218,
+        "Darkbluebody": 0.064,
+        "Rustredbody": 0.082
+    },
+    "arms": {
+        "Longred": 0.464,
+        "Shortyellow": 0.104,
+        "Shortblue": 0.426
+    },
+    "logo": {
+        "Botman": 0.008,
+        "Modern": 0.008
+    },
+    "ears": {
+        "Smallorange": 0.18,
+        "Smallblue": 0.318,
+        "Smallpale": 0.15,
+        "null": 0.036,
+        "Bigpale": 0.254,
+        "Bigdarkblue": 0.05
+    },
+    "hat": {
+        "Spacecase": 0.024
+    },
+    "slacker": {
+        "Hipster": 0.01
+    }
+}
